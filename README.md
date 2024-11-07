@@ -1,1 +1,12 @@
 # junruizhang
+Junrui is currently pursuing his PhD in Civil and Environmental Engineering at the Faculty of Engineering, University of Auckland (October 2021 - April 2025). His studies are supported by the New Zealand Ministry of Business, Innovation, and Employment (MBIE) through the Smart Ideas Endeavour Fund and the New Zealand Centre for Earthquake Resilience (QuakeCoRE). His doctoral research focuses on two main areas: 
+1. Seismic strengthening of floor diaphragms with carbon fibre materials (CFRP) – FRP ties and,
+2. Study of the Interfacial Bond Properties of Concrete Strengthened by FRP Composites with Pseudo Ductility. 
+His PhD under the supervision of Dr. Enrique del Rey Castillo, Dr. Lucas Hogan, and Dr. Tom Allen. 
+
+Prior to this, Junrui Zhang earned his Master’s degree at the College of Civil Engineering and Mechanics, Lanzhou University, China, where he concentrated on: 
+1. The study of anchorage performance and design principles of near-surface-mounted (NSM) carbon fiber composites for strengthening concrete structures (2018-2019), supervised by Prof. Wei Sun. 
+2. A Rebar-UHPC Bond Model Based on Phase Field Theory and Damage Mechanics (2019-2021), under the guidance of Prof. Chunlin Pan. 
+During this period, he was invited by Prof. Andrew Bunger of the University of Pittsburgh, United States, to participate in a study abroad exchange program from October 1, 2019, to December 31, 2019. Additionally, from November 2, 2022, to October 27, 2023, Junrui Zhang conducted research as a Visiting Scholar at the Simpson Strong-Tie Composite Strengthening Systems - Tyrell Gilb Research Lab in Stockton, California, United States. In September 2024, Junrui successfully completed the Academic Career Advancement Programme (ACAP) at the University of Auckland, supported by the Academic Career Advancement Award, in recognition of his outstanding academic potential and contributions to his field.
+
+Junrui is passionate about structural design and research and maintains strong connections with the international industry. He has actively participated in various industry conferences (ACI, FRPRCS, CICE, fib Symposium, QuakeCoRE, SESOC, CNZ), presenting his research findings, some of which have been incorporated into updates of the American Concrete Institute (ACI 440.2R) provisions for designing RC members strengthening with carbon fiber composites under pure tension.
